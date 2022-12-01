@@ -1,0 +1,5 @@
+﻿DisableProtectionOnMoveRange: 4
+ProtectionTime: 15
+BanCommandsInProtectionZone:
+- "tp"
+- "home"

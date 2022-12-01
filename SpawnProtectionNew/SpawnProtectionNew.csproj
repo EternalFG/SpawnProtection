@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	<TargetFramework>net472</TargetFramework>
+	<LangVersion>9.0</LangVersion>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="config.yaml" />
+    <None Remove="translations.yaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="config.yaml" />
+    <EmbeddedResource Include="translations.yaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenMod.Unturned" Version="3.3.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Rocket.API">
+      <HintPath>..\..\SpawnProtection\SpawnProtection\bin\Release\Rocket.API.dll</HintPath>
+    </Reference>
+    <Reference Include="Rocket.Core">
+      <HintPath>..\..\SpawnProtection\SpawnProtection\bin\Release\Rocket.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Rocket.Unturned">
+      <HintPath>..\..\SpawnProtection\SpawnProtection\bin\Release\Rocket.Unturned.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

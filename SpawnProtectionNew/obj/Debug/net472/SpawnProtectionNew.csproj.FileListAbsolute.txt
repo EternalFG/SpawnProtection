@@ -1,0 +1,5 @@
+C:\Users\Cpl\source\repos\SpawnProtectionNew\SpawnProtectionNew\obj\Debug\net472\SpawnProtectionNew.csproj.AssemblyReference.cache
+C:\Users\Cpl\source\repos\SpawnProtectionNew\SpawnProtectionNew\obj\Debug\net472\SpawnProtectionNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cpl\source\repos\SpawnProtectionNew\SpawnProtectionNew\obj\Debug\net472\SpawnProtectionNew.AssemblyInfoInputs.cache
+C:\Users\Cpl\source\repos\SpawnProtectionNew\SpawnProtectionNew\obj\Debug\net472\SpawnProtectionNew.AssemblyInfo.cs
+C:\Users\Cpl\source\repos\SpawnProtectionNew\SpawnProtectionNew\obj\Debug\net472\SpawnProtectionNew.csproj.CoreCompileInputs.cache
